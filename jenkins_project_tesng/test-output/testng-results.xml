@@ -2,12 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-21T04:24:46 PDT" name="Suite" finished-at="2020-10-21T04:25:09 PDT" duration-ms="23139">
+  <suite started-at="2020-11-09T11:31:12 IST" name="Suite" finished-at="2020-11-09T11:31:27 IST" duration-ms="14816">
     <groups>
     </groups>
-    <test started-at="2020-10-21T04:24:46 PDT" name="Test" finished-at="2020-10-21T04:25:09 PDT" duration-ms="23139">
+    <test started-at="2020-11-09T11:31:12 IST" name="Test" finished-at="2020-11-09T11:31:27 IST" duration-ms="14816">
       <class name="jenkins_project_tesng.practice">
-        <test-method signature="abc()[pri:0, instance:jenkins_project_tesng.practice@6f45df59]" started-at="2020-10-21T04:24:46 PDT" name="abc" finished-at="2020-10-21T04:25:09 PDT" duration-ms="22947" status="PASS">
+        <test-method signature="abc(java.lang.String)[pri:0, instance:jenkins_project_tesng.practice@6f45df59]" started-at="2020-11-09T11:31:12 IST" name="abc" finished-at="2020-11-09T11:31:27 IST" duration-ms="14733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abc -->
