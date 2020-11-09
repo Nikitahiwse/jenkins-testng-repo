@@ -10,6 +10,7 @@ public class practice {
 	{
 	Initialize initial=new Initialize();
 	initial.initialzation(URL);
+	initial.maximize();
 	
 	}
 	
